@@ -3,8 +3,8 @@ h1{
 }
 p{
 	font-size: 25px;
-    margin-left: 196px;
-    margin-right: 179px;
+    margin-left: auto;
+    margin-right: auto;
     color: cadetblue;
 }
 body{
@@ -53,6 +53,9 @@ body{
 .planes{
 	display: inline-flex;
 }
+
+
+
 /*   http://es.learnlayout.com/flexbox.html   */
 /*  
 @media screen and (min-width:600px) {
